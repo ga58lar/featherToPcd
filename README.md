@@ -2,6 +2,11 @@
 
 These scripts are specificaly designed for the [Argoverse2 dataset](https://argoverse.github.io/user-guide/datasets/sensor.html).  
 
+<img src="doc/lidarSplitExample.png" width="800px">  
+
+white ... top  
+orange ... bottom  
+
 ## Download
 
 To clone this repository use:  
